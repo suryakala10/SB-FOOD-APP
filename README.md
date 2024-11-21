@@ -1,5 +1,5 @@
 SB-FOODS
-DEMO LINKS ARE GIVEN BELOW: https://drive.google.com/file/d/1Qu4Flbd9b2D2eclVaPXu08R_6iwFBAIr/view?usp=drive_link
+DEMO LINKS ARE GIVEN BELOW: 
 
 GITHUB LINK:https://github.com/suryakala10/SB-FOOD-APP
 
@@ -9,4 +9,4 @@ SB FOOD APP PROJECT PRESENTATION:https://github.com/suryakala10/SB-FOOD-APP/blob
 
 SCREENSHOTS:https://github.com/suryakala10/SB-FOOD-APP/commit/b72389d5acb069c3935b595afa28db1423499bd0
 
-DEMO LINK:
+DEMO LINK: https://drive.google.com/file/d/1Qu4Flbd9b2D2eclVaPXu08R_6iwFBAIr/view?usp=drive_link
